@@ -10,4 +10,4 @@ with the following content:
   arbitrary.
   - Note: Keep it friendly!
 
-Good luck!
+Good luck! :)
